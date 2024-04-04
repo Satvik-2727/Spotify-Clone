@@ -1,0 +1,77 @@
+:root{
+    --color-subdued: #a7a7a7;
+}
+
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.white{
+    color: white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #121212;
+}
+
+.grey{
+    color: var(--color-subdued, #6a6a6a);
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.list-style{
+    list-style-type: none;
+}
+
+.numbered-list{
+    list-style-type: decimal;
+}
+
+.m-1{
+    margin: 5px;
+}
+
+.m-2{
+    margin: 12px 8px;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+.block{
+    display: block;
+}

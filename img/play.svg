@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24">
+                                <!-- Green circular background -->
+                                <circle cx="12" cy="12" r="12" fill="#1fdf64" />
+                              
+                                <!-- Play button -->
+                                <path d="M16 12L10 16V8z" fill="black" transform="translate(-3.5,-2) scale(1.25)" />
+                              </svg>
